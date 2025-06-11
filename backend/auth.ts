@@ -1,3 +1,4 @@
+require('dotenv').config();
 // Welcome to some authentication for Keystone
 //
 // This is using @keystone-6/auth to add the following
